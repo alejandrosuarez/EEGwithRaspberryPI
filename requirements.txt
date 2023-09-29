@@ -21,7 +21,7 @@ colorama==0.4.4
 coloredlogs==15.0.1
 colorzero==1.1
 cookies==2.2.1
-cryptography==2.6.1
+cryptography==41.0.4
 cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.24
@@ -118,7 +118,7 @@ PyYAML==6.0
 pyzmq==22.3.0
 qtconsole==4.3.1
 rainbowhat==0.1.0
-reportlab==3.5.13
+reportlab==3.5.31
 requests==2.21.0
 requests-oauthlib==1.0.0
 responses==0.9.0
