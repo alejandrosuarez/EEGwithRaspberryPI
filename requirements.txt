@@ -37,7 +37,7 @@ gpiozero==1.5.1
 guizero==0.6.0
 html5lib==1.0.1
 humanfriendly==10.0
-idna==2.6
+idna==3.7
 importlib-metadata==4.8.1
 ipykernel==4.9.0
 ipython==5.8.0
