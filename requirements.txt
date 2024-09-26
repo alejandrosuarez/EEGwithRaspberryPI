@@ -88,7 +88,7 @@ piglow==1.2.5
 pigpio==1.78
 Pillow==5.4.1
 pip==18.1
-prompt-toolkit==1.0.15
+prompt-toolkit==3.0.13
 psutil==5.5.1
 pycairo==1.16.2
 pycodestyle==2.4.0
