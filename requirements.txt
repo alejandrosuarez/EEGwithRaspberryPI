@@ -150,7 +150,7 @@ timeflux==0.11.0
 timeflux-brainflow==0.8.0
 timeflux-dsp==0.3.1
 timeflux-ui==0.4.0
-tornado==5.1.1
+tornado==6.4.2
 touchphat==0.0.1
 traitlets==4.3.2
 twython==3.7.0
